@@ -1,0 +1,10 @@
+Know:
+
+- format specifiers
+- binary search
+- heap structure & heap overflow
+- base64
+- caesar cipher: ciphertext by Julius Caesar or ancient Rome.
+    'Ciphertext is encrypted text transformed from plaintext using an encryption algorithm. Ciphertext can't be read until it has been converted into plaintext (decrypted) with a key.'
+    'In cryptography, ciphertext or cyphertext is the result of encryption performed on plaintext using an algorithm, called a cipher otr cypher'
+- burpsuit intercept
