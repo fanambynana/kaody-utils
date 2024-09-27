@@ -21,6 +21,6 @@ if __name__ == "__main__":
         # Convert each byte group to ASCII character and join them together
         decoded_string = ''.join(chr(int(byte_group, 2)) for byte_group in byte_groups)
 
-        print(f"Decoded string: {decoded_string}")
+        print(f"Decoded result: {decoded_string}")
     except Exception as e:
         print(f"An error occurred: {str(e)}")
